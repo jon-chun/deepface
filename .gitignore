@@ -1,3 +1,13 @@
+# Virtual Environment
+venv/
+
+# Datasets
+FEC_dataset/
+
+# Python cache
+__pycache__/
+*.pyc
+
 __pycache__/*
 basemodels/__pycache__/*
 configurations/__pycache__/*
